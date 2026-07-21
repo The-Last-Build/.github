@@ -7,9 +7,9 @@ This organization has our repos that may include code, frameworks, and assets.
 
 ## What's in here?
 
-    The Code: Custom asymmetrical gameplay loops, player abilities, and round mechanics.
+- The Code: Custom asymmetrical gameplay loops, player abilities, and round mechanics.
 
-    Frameworks: HUDs, inventory management, and sound frameworks.
+- Frameworks: HUDs, inventory management, and sound frameworks.
 
 ## We are currently working on this
 This is quite empty due to the fact that well, this organization is just getting worked on, and that because we want to improve our teams organization, trello coming soon.
