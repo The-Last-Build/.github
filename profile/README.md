@@ -1,11 +1,15 @@
-## Hi there 👋
+## Last Build Studio
+Welcome to Last Build Organization! We are Roblox devs currently building a new asymmetrical multiplayer experience (inspired by games like BIAST, Forsaken).
+This organization has our repos that may include code, frameworks, and assets.
 
+**PWEASE DO NOT LEAK :3**
+###### or else Verity will hunt you down
 
+## What's in here?
 
-**Here are some ideas to get you started:**
+    The Code: Custom asymmetrical gameplay loops, player abilities, and round mechanics.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+    Frameworks: HUDs, inventory management, and sound frameworks.
+
+## We are currently working on this
+This is quite empty due to the fact that well, this organization is just getting worked on, and that because we want to improve our teams organization, trello coming soon.
