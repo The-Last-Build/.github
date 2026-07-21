@@ -1,17 +1,28 @@
-## The Last Build
-Welcome to Last Build Organization! We are Roblox devs currently building a new asymmetrical multiplayer experience (inspired by games like BIAST, Forsaken).
-This organization has our repos that may include code, frameworks, and assets.
+# The Last Build
 
-**PWEASE DO NOT LEAK :3**
-###### or else Verity will hunt you down
+Welcome to **The Last Build**! We are a group of Roblox developers currently building a brand-new asymmetrical multiplayer experience (inspired by games like *BIAST* and *Forsaken*).
 
-## What's in here?
+This organization houses our core repositories, including source code, custom frameworks, and game assets.
 
-- The Code: Custom asymmetrical gameplay loops, player abilities, and round mechanics.
+> **PWEASE DO NOT LEAK :3**  
+> *(...or else, I, Verity will personally hunt you down).*
 
-- Frameworks: HUDs, inventory management, and sound frameworks.
+---
 
-## We are currently working on this
-This is quite empty due to the fact that well, this organization is just getting worked on, and that because we want to improve our teams organization, trello coming soon.
+### What’s in here?
 
-###### oh and, our scripters are peak and like tomboys
+* **The Code:** The code for asymmetrical gameplay loops, player abilities, and round mechanics.
+* **Frameworks:** Custom HUDs, inventory management, and sound systems.
+
+---
+
+### Current Status
+
+We're just getting started! Repos might look a bit empty right now, and even some missing, such as assets, but this is because we are trying to improve our team's organization, and move stuff here.
+
+* **Trello Board:** Coming soon!
+* **Discord:** https://discord.gg/nyDvTz2Prd
+
+---
+
+*P.S. Our scripters are peak and love tomboys.*
